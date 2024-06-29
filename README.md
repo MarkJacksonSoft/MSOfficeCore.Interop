@@ -9,3 +9,5 @@ This package wraps the publicly available PIA for inclusion in as wide a range o
 ## Links
 
 - [Office primary interop assemblies](https://learn.microsoft.com/en-us/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2022)
+- [Source](https://github.com/MarkJacksonSoft/MSOfficeCore.Interop)
+  
