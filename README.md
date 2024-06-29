@@ -7,6 +7,11 @@ The latest available version was supplied for Microsoft Office 2013, and compati
 
 This package wraps the publicly available PIA for inclusion in as wide a range of .Net platforms as possible.
 
+## Install
+
+To install, use the NUGET package found at [https://www.nuget.org/packages/MSOfficeCore.Interop/](https://www.nuget.org/packages/MSOfficeCore.Interop/), howver this is most often used as a dependency of the other MS Interop packages.
+
 ## Links
 
 - [Office primary interop assemblies](https://learn.microsoft.com/en-us/visualstudio/vsto/office-primary-interop-assemblies?view=vs-2022)
+- [PowerPoint Interop Assembly Nuget Package](https://github.com/MarkJacksonSoft/MSOffice.Interop.PowerPoint)
