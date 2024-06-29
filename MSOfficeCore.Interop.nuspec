@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MSOfficeCore.Interop</id>
+    <version>15.0.2</version>
+    <title>Microsoft.Office.Core.Interop</title>
+    <authors>Mark Jackson</authors>
+    <owners></owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <icon>ms-office.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/MarkJacksonSoft/MSOfficeCore.Interop</projectUrl>
+    <description>Microsoft Office.dll Interop Assembly</description>
+    <summary>This package wraps the publicly available Microsoft office core PIA for inclusion in as wide a range of .Net platforms as possible.</summary>
+    <releaseNotes>Updated Readme</releaseNotes>
+    <tags>Microsoft Office Core Interop PIA</tags>
+  </metadata>
+  <files>
+    <file src="lib\net48\Office.dll" target="lib\net48\Office.dll" />
+    <file src="lib\net6.0\Office.dll" target="lib\net6.0\Office.dll" />
+    <file src="lib\net7.0\Office.dll" target="lib\net7.0\Office.dll" />
+    <file src="lib\net8.0\Office.dll" target="lib\net8.0\Office.dll" />
+    <file src="lib\netstandard2.0\Office.dll" target="lib\netstandard2.0\Office.dll" />
+    <file src="ms-office.png" target="ms-office.png" />
+    <file src="README.md" target="README.md" />
+  </files>
+</package>
